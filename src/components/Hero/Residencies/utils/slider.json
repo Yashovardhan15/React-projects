@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Vaishnavi ARS",
+    "price": "47,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Bangalore",
+    "image": "./p1.jpg"
+  },
+  {
+    "name": "Prestige Wellington",
+    "price": "66,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jalahalli, Bangalore",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Krishna Dwellington",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Bangalore",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Nitesh homes",
+    "price": "47,043",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, Bangalore",
+    "image": "./p4.jpg"
+  },
+  {
+    "name": "Aravind apartments",
+    "price": "66,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Bangalore",
+    "image": "./p3.jpg"
+  },
+  {
+    "name": "Lakshmi group venture",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Bangalore",
+    "image": "./p2.jpg"
+  }
+]
